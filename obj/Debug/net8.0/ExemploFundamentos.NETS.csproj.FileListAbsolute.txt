@@ -1,0 +1,14 @@
+C:\GitHub\DIO\ExemploFundamentos.NETS8\obj\Debug\net8.0\ExemploFundamentos.NETS.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DIO\ExemploFundamentos.NETS8\obj\Debug\net8.0\ExemploFundamentos.NETS.AssemblyInfoInputs.cache
+C:\GitHub\DIO\ExemploFundamentos.NETS8\obj\Debug\net8.0\ExemploFundamentos.NETS.AssemblyInfo.cs
+C:\GitHub\DIO\ExemploFundamentos.NETS8\obj\Debug\net8.0\ExemploFundamentos.NETS.csproj.CoreCompileInputs.cache
+C:\GitHub\DIO\ExemploFundamentos.NETS8\bin\Debug\net8.0\ExemploFundamentos.NETS.exe
+C:\GitHub\DIO\ExemploFundamentos.NETS8\bin\Debug\net8.0\ExemploFundamentos.NETS.deps.json
+C:\GitHub\DIO\ExemploFundamentos.NETS8\bin\Debug\net8.0\ExemploFundamentos.NETS.runtimeconfig.json
+C:\GitHub\DIO\ExemploFundamentos.NETS8\bin\Debug\net8.0\ExemploFundamentos.NETS.dll
+C:\GitHub\DIO\ExemploFundamentos.NETS8\bin\Debug\net8.0\ExemploFundamentos.NETS.pdb
+C:\GitHub\DIO\ExemploFundamentos.NETS8\obj\Debug\net8.0\ExemploFundamentos.NETS.dll
+C:\GitHub\DIO\ExemploFundamentos.NETS8\obj\Debug\net8.0\refint\ExemploFundamentos.NETS.dll
+C:\GitHub\DIO\ExemploFundamentos.NETS8\obj\Debug\net8.0\ExemploFundamentos.NETS.pdb
+C:\GitHub\DIO\ExemploFundamentos.NETS8\obj\Debug\net8.0\ExemploFundamentos.NETS.genruntimeconfig.cache
+C:\GitHub\DIO\ExemploFundamentos.NETS8\obj\Debug\net8.0\ref\ExemploFundamentos.NETS.dll
